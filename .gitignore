@@ -60,4 +60,5 @@ typings/
 .env
 
 /data
-/test
+# Do not ignore tests
+# /test

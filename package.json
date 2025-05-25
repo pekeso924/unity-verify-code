@@ -12,7 +12,7 @@
     "url": "https://github.com/game-ci/unity-verify-code/issues"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./test/run-tests.js"
   },
   "keywords": [
     "unity",
